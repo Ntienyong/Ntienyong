@@ -7,7 +7,7 @@
 
 - 🎮 I’m a ** Genius'.**
 
-- 🔭 I’m currently working on ** Being a god, but to put it in mortal terms "game dev on C#**
+- 🔭 I’m currently working on ** Being a god, but to put it in mortal terms; game dev on C#**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
