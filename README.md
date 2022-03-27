@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Enteeyoung</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ntienyong</h1>
 
 
 ## 🙋‍♂️ About Me
 
-- 🎮 I’m a **Game Developer'.**
+- 🎮 I’m a ** Genius'.**
 
-- 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" personal projects, so you might not be seeing my commits but have no doubts.**
+- 🔭 I’m currently working on ** Being a god, but to put it in mortal terms "game dev on C#**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Cyprianjunioriv@gmail.com**
 
-- ⚡ Catch-Phrase **Why So Serious?.**
+- ⚡ Catch-Phrase **"Never underestimate the progress of baby steps"**
 
 ## 🚀 Languages and Tools:
 
