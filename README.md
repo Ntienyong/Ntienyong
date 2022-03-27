@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **MarshalOnah@gmail.com**
+- 📫 How to reach me **Cyprianjunioriv@gmail.com**
 
 - ⚡ Catch-Phrase **Why So Serious?.**
 
