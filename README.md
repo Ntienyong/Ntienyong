@@ -55,9 +55,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/onah-marshal-3167061b4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Ghost_Gramm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Ghost_Gramm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/ntienyong-cyprian-37153a148/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/cyprian_iv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
