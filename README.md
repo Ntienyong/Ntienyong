@@ -7,9 +7,9 @@
 
 - 🎮 I’m a ** Genius'.**
 
-- 🔭 I’m currently working on ** Being a god, but to put it in mortal terms; game dev on C#**
+- 🔭 I’m currently working on ** Chess game, completed unity junior developer course**
 
-- 🌱 I’m currently learning **alot of other new stuffs.**
+- 🌱 I’m currently learning **alot of other new stuffs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
