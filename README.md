@@ -5,11 +5,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎮 I’m a ** Genius'.**
+- 🎮 I’m a **young and vibrant enthusiast of
+design in its variation with a passion for
+gaming. One who seeks to expand his
+horizon in the expanse of creative
+rendition, problem solving and value
+provision. I have an animated mind and
+and I believe it can be utilized and
+further improved on by learning
+through the conscious or unconscious
+actions of creatives I surround myself
+with**
 
-- 🔭 I’m currently working on ** Chess game, completed unity junior developer course**
+- 🔭 I’m currently working on **Fantasy Chess League, A game that brings a new challenge and fun to the everyday chess players. Built on unity**
 
-- 🌱 I’m currently learning **alot of other new stuffs**
+- 🌱 I’m currently learning **Networking and putting my works out**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
